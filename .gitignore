@@ -1,3 +1,22 @@
 
 .DS_Store
 algos/.gitkeep
+cgames/05_sonic/sonic_a2c.ipynb
+cgames/05_sonic/sonic_ddqn.ipynb
+cgames/05_sonic/sonic_dqn.ipynb
+cgames/05_sonic/sonic_pg.ipynb
+cgames/05_sonic/sonic_ppo.ipynb
+cgames/05_sonic/sonic_rainbow-Copy1.ipynb
+algos/__pycache__/__init__.cpython-37.pyc
+algos/agents/__pycache__/__init__.cpython-37.pyc
+algos/agents/__pycache__/a2c_agent.cpython-37.pyc
+algos/agents/__pycache__/ddqn_agent.cpython-37.pyc
+algos/agents/__pycache__/dqn_agent.cpython-37.pyc
+algos/agents/__pycache__/ppo_agent.cpython-37.pyc
+algos/agents/__pycache__/reinforce_agent.cpython-37.pyc
+algos/preprocessing/__pycache__/__init__.cpython-37.pyc
+algos/preprocessing/__pycache__/stack_frame.cpython-37.pyc
+algos/utils/__pycache__/__init__.cpython-37.pyc
+algos/utils/__pycache__/replay_buffer.cpython-37.pyc
+cgames/05_sonic/.ipynb_checkpoints/AI_Final_Project_Sonic-checkpoint.ipynb
+cgames/05_sonic/.ipynb_checkpoints/sonic_dqn-checkpoint.ipynb
